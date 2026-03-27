@@ -1,4 +1,3 @@
-
 fonction verification
 { si  : pas d'arguments
 variable_arguments = arguments
