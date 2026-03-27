@@ -1,5 +1,5 @@
 
-'fonction verification
+fonction verification
 { si  : pas d'arguments
 variable_arguments = arguments
 sinon:  afficher  "Il manque les noms d'utilisateurs en argument - Fin du script"
@@ -20,4 +20,4 @@ faire:
 
 }
 lancer fonction verification
-lancer fonction nouvelutilisateur'
+lancer fonction nouvelutilisateur
