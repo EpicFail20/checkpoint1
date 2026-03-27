@@ -29,3 +29,4 @@ function new_user {
 
 test_add "$@"
 new_user
+exit 0
