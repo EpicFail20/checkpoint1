@@ -1,0 +1,3 @@
+Repo pour le checkpoint1
+
+Note: Je ne sais pas pourquoi mais en passant de mon obsidian a github ca ne m'a pas conservé le formatage du pseudo code...
